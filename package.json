@@ -5,7 +5,7 @@
     "tsc": "^2.0.4",
     "typescript": "^4.7.4"
   },
-  "name": "randomapp",
+  "name": "MP4 transcripter",
   "description": "**Todos**",
   "version": "1.0.0",
   "main": "index.js",
